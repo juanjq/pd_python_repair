@@ -1,4 +1,4 @@
-from PyPDF2                import PdfFileMerger 
+from PyPDF2 import PdfFileMerger 
 
 def repair(file_name):
     EOF_MARKER = b'%%EOF'                                #we look for the EOF marker that is the 'End' of the actual pdf

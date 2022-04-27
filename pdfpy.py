@@ -20,7 +20,7 @@ def repair(file_name):
 
         
 #function to merge a list of pdfs, giving the name files of them     
-def merge_pdf(pdf_order,name_merged='merged_pdf'):
+def merge(pdf_order,name_merged='merged_pdf'):
 
       #merging pdfs
       merger = PdfFileMerger()

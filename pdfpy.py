@@ -1,10 +1,3 @@
-import matplotlib.colors   as colors
-import matplotlib.pyplot   as plt
-import numpy               as np
-
-from scipy.optimize        import curve_fit
-from scipy.optimize        import root
-from scipy.stats           import norm
 from PyPDF2                import PdfFileMerger 
 
 def repair(file_name):

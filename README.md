@@ -1,4 +1,4 @@
-# pdfpy
+# pdf_python_repair
 A script to edit pdfs in different ways. Installed with,
 ```
 import httpimport
